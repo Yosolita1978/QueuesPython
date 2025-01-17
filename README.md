@@ -24,4 +24,4 @@ Ensure you have Python 3.x installed on your system. No external dependencies ar
 
 ## About Me
 
-Hi, I'm Cristina! I’m a software engineer with over 20 years of experience in project management, content creation, and software development. I enjoy solving algorithmic problems and sharing my knowledge with others. You can find more of my projects and tutorials at yosola.co.
+Hi, I'm Cristina! I’m a software engineer with over 20 years of experience in project management, content creation, and software development. I enjoy solving algorithmic problems and sharing my knowledge with others. You can find more of my projects and tutorials at [yosola.co](https://www.yosola.co/).
